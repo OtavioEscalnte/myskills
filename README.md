@@ -1,2 +1,2 @@
 # myskills
- Projeto simples para cadastrar skills
+ Projeto para cadastro de skills desenvolvido em react-native
